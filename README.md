@@ -1,24 +1,23 @@
-# FTdashboad
+# FTroulette使用说明
 
-<a name="WQu4R"></a>
-## ![](https://img.shields.io/travis/1085192695@qq.com/FTdashboad.svg?style=flat#align=left&display=inline&height=20&margin=%5Bobject%20Object%5D&originHeight=20&originWidth=98&status=done&style=none&width=98) ![](https://img.shields.io/cocoapods/v/FTdashboad.svg?style=flat#align=left&display=inline&height=20&margin=%5Bobject%20Object%5D&originHeight=20&originWidth=76&status=done&style=none&width=76) ![](https://img.shields.io/cocoapods/l/FTdashboad.svg?style=flat#align=left&display=inline&height=20&margin=%5Bobject%20Object%5D&originHeight=20&originWidth=78&status=done&style=none&width=78) [![](https://img.shields.io/cocoapods/p/FTdashboad.svg?style=flat#align=left&display=inline&height=20&margin=%5Bobject%20Object%5D&originHeight=20&originWidth=82&status=done&style=none&width=82)](https://cocoapods.org/pods/FTdashboad)
-<a name="kADI9"></a>
+<a name="gY99j"></a>
 ## Example
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-<a name="aZA3I"></a>
+<a name="VfdAw"></a>
 ## Requirements
-<a name="46Goi"></a>
+<a name="eHz2z"></a>
 ## Installation
-FTdashboad is available through [CocoaPods](https://cocoapods.org/). To install it, simply add the following line to your Podfile:<br />pod 'FTdashboad'
-<a name="9j1Em"></a>
+FTroulette is available through [CocoaPods](https://cocoapods.org/). To install it, simply add the following line to your Podfile:<br />pod 'FTroulette'
+<a name="f5hox"></a>
+## Principle
+1.以触碰点P与圆心O1为起始边，对±θ角范围内的刻度线进行偏移。角θ可根据三角形O1O2A，利用余弦定理，已知三边求角：a=r，b=R，c=R-d 代入即可求得α，即θ<br />[![](https://github.com/Takemoto-xie/resource/raw/master/roulette/%E4%BD%99%E5%BC%A6%E5%AE%9A%E7%90%86.svg#align=left&display=inline&height=50&margin=%5Bobject%20Object%5D&originHeight=50&originWidth=189&status=done&style=none&width=189)](https://github.com/Takemoto-xie/resource/blob/master/roulette/%E4%BD%99%E5%BC%A6%E5%AE%9A%E7%90%86.svg)<br />[![](https://github.com/Takemoto-xie/resource/raw/master/roulette/roulette1.png#align=left&display=inline&height=477&margin=%5Bobject%20Object%5D&originHeight=477&originWidth=600&status=done&style=none&width=600)](https://github.com/Takemoto-xie/resource/blob/master/roulette/roulette1.png)<br />2.原刻度线ab，偏移后得到新刻度线a'b'，新刻度线的位置L，可根据三角形O1O2a'，利用余弦定理结合完全平方公式，已知两边和一角求第三边：∠γ=∠α-∠β，a=R-d，c=r 代入即可求得b，即L<br />[![](https://github.com/Takemoto-xie/resource/raw/master/roulette/%E4%BD%99%E5%BC%A6%E5%AE%9A%E7%90%862.svg#align=left&display=inline&height=27&margin=%5Bobject%20Object%5D&originHeight=27&originWidth=213&status=done&style=none&width=213)](https://github.com/Takemoto-xie/resource/blob/master/roulette/%E4%BD%99%E5%BC%A6%E5%AE%9A%E7%90%862.svg)<br />[![](https://github.com/Takemoto-xie/resource/raw/master/roulette/roulette2.png#align=left&display=inline&height=497&margin=%5Bobject%20Object%5D&originHeight=497&originWidth=600&status=done&style=none&width=600)](https://github.com/Takemoto-xie/resource/blob/master/roulette/roulette2.png)
+<a name="f0UKR"></a>
 ## Demo
-
-<br />![demo.gif](https://github.com/Takemoto-xie/testReadMe/blob/master/ScreenShots/dashboad/demo_dashboad.gif)<br />
-<br />![demo_dashboad.gif](https://github.com/Takemoto-xie/testReadMe/blob/master/ScreenShots/floatball/demo.gif)<br />
-<br />![float_demo.gif](https://github.com/Takemoto-xie/testReadMe/blob/master/ScreenShots/roulette/demo.gif)
-<a name="4vEwG"></a>
+[![](https://github.com/Takemoto-xie/resource/raw/master/roulette/demo.gif#align=left&display=inline&height=652&margin=%5Bobject%20Object%5D&originHeight=652&originWidth=320&status=done&style=none&width=320)](https://github.com/Takemoto-xie/resource/blob/master/roulette/demo.gif)
+<a name="UFtms"></a>
 ## Author
 [794751446@qq.com](mailto:794751446@qq.com), [1085192695@qq.com](mailto:1085192695@qq.com)
-<a name="coeyl"></a>
+<a name="de3la"></a>
 ## License
-FTdashboad is available under the MIT license. See the LICENSE file for more info.
+FTroulette is available under the MIT license. See the LICENSE file for more info.<br />
+
