@@ -15,6 +15,10 @@ FTroulette is available through [CocoaPods](https://cocoapods.org/). To install 
 ## Demo
 ![float.gif](https://cdn.nlark.com/yuque/0/2020/gif/414848/1598598613446-be6ed6e4-bead-4b66-b8d3-fd74e7452b24.gif#align=left&display=inline&height=192&margin=%5Bobject%20Object%5D&name=float.gif&originHeight=192&originWidth=256&size=7105062&status=done&style=none&width=256)<br />![float25.gif](https://cdn.nlark.com/yuque/0/2020/gif/414848/1598598876961-56786168-08cf-4c6d-8e2a-c5eb741a4402.gif#align=left&display=inline&height=240&margin=%5Bobject%20Object%5D&name=float25.gif&originHeight=240&originWidth=320&size=6672039&status=done&style=none&width=320)<br />![81f0cf59b3cbfc06c1dbf9159a342b45.gif](https://cdn.nlark.com/yuque/0/2020/gif/414848/1598586326289-406e3ea0-5ded-4a7b-8f61-1aaca70881b5.gif#align=left&display=inline&height=400&margin=%5Bobject%20Object%5D&name=81f0cf59b3cbfc06c1dbf9159a342b45.gif&originHeight=400&originWidth=580&size=623051&status=done&style=none&width=580)![65776da21aec6cf93421e41483b6a1a0.gif](https://cdn.nlark.com/yuque/0/2020/gif/414848/1598586329135-efa77ba9-a3bd-4e00-a91c-a0a157422d3b.gif#align=left&display=inline&height=480&margin=%5Bobject%20Object%5D&name=65776da21aec6cf93421e41483b6a1a0.gif&originHeight=480&originWidth=480&size=601635&status=done&style=none&width=480)
 <a name="UFtms"></a>
+
+![demo.gif](https://github.com/Takemoto-xie/testReadMe/blob/master/float.gif)
+![demo.gif](https://github.com/Takemoto-xie/testReadMe/blob/master/float25.gif)
+
 ## Author
 [794751446@qq.com](mailto:794751446@qq.com), [1085192695@qq.com](mailto:1085192695@qq.com)
 <a name="de3la"></a>
