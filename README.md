@@ -24,3 +24,4 @@ FTroulette is available under the MIT license. See the LICENSE file for more inf
 ![float.gif](https://github.com/Takemoto-xie/testReadMe/blob/master/float.gif)
 ![float25.gif](https://github.com/Takemoto-xie/testReadMe/blob/master/float25.gif)
 ![float50.gif](https://github.com/Takemoto-xie/testReadMe/blob/master/float50.gif)
+![float501.gif](https://github.com/Takemoto-xie/testReadMe/blob/master/float501.gif)
