@@ -25,3 +25,5 @@ FTroulette is available under the MIT license. See the LICENSE file for more inf
 <img src="./float25.gif"/>
 <img src="./float501.gif"/>
 <img src="./demo.gif"/>
+
+注意：如遇到图片加载缓慢或失败，请参照——[解决办法](https://blog.csdn.net/u011583927/article/details/104384169?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)<br />!
